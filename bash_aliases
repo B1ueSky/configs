@@ -3,6 +3,8 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
+alias c='clear'
+
 #PS settings aliases
 ORIGINAL_PS1=$PS1
 alias sps1='PS1="[\u:\W] \$ "'
